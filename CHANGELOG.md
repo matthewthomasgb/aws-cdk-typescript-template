@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/matthewthomasgb/aws-cdk-typescript-template/compare/v1.0.0...v1.0.1) (2021-02-17)
+
+
+### Bug Fixes
+
+* **prettier:** add docs to .prettierignore ([61e9a3b](https://github.com/matthewthomasgb/aws-cdk-typescript-template/commit/61e9a3b1228a8db86ff7d34d6a7c60877ae81800))
+
 # 1.0.0 (2021-02-17)
 
 
